@@ -1,4 +1,8 @@
-import java.io.File;
+import java.io.BufferedReader;
+import java.io.FileReader;
+import java.io.IOException;
+import java.nio.Buffer;
+import java.util.Scanner;
 
 /**
  *  2. Búsqueda de carácteres
@@ -10,13 +14,34 @@ import java.io.File;
 
 public class BusquedaCaracteres {
 
-    public static void main(String[] args) {
+    public static void main(String[] args) throws IOException {
 
-        File rutaArchivo = new File("res/BusquedaCaracteres.txt");
-        if (rutaArchivo.exists()) {
+        try (BufferedReader lector = new BufferedReader(new
+                FileReader("res/BusquedaCaracteres.txt"));) {
 
+            String linea = "";
 
+            Scanner sc = new Scanner(System.in);
+
+            System.out.print("Introduce el caracter a buscar: ");
+
+            char letraControl = sc.next().charAt(0);
+
+            int contador = 0;
+
+            while ((linea = lector.readLine()) != null)
+
+                for (char character : linea.toCharArray()) {
+                    if (character == letraControl) {
+                        contador++;
+                    }
+                }
+
+            System.out.println("El numero de veces que sale el caracter es: " + contador);
+
+        } catch(IOException e){
+            System.err.println(e.getMessage());
         }
     }
-
 }
+
