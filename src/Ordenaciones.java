@@ -41,7 +41,7 @@ public class Ordenaciones {
                 lineas.add(linea);
 
         } catch (IOException e) {
-            System.err.println(e.getMessage());
+            System.err.println("No se encuentra el archivo");
         }
 
 
@@ -84,7 +84,7 @@ public class Ordenaciones {
 
             System.out.println("Escritura realizada.");
         } catch (IOException e) {
-            System.err.println(e.getMessage());
+            System.err.println("No se puede crear el archivo en el lugar indicado");
         }
 
     }
