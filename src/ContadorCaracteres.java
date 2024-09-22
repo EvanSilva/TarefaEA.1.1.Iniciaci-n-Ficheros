@@ -10,7 +10,7 @@ public class ContadorCaracteres {
     public static void main(String[] args) {
 
         try (BufferedReader lector = new BufferedReader(new
-                FileReader("res/LetrasAleatorias"));) {
+                FileReader("res/LetrasAleatorias.txt"));) {
 
             String linea;
 
