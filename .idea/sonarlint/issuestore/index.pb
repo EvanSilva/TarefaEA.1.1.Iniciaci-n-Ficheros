@@ -19,3 +19,17 @@ J
 res/BusquedaCaracteres.txt,b\5\b5f462b2eec9f8ef5f50367dfe3508fa33b43879
 D
 res/Correctiones.txt,d\1\d1d9c00976fe87ff6dfb1a43682fddfdecbb9e36
+A
+res/Vehiculos.txt,0\4\0489d6f436e526d48404b90f659874f25bdeac36
+I
+src/OrdenarVehiculos.java,c\8\c8ea68000e3d0c97a35383fb385ac4288aa3fc08
+E
+src/Ordenaciones.java,3\2\3279d08be40d531c67f47d2cb8b137e7fd65fa27
+A
+src/SimpleLs.java,4\e\4eba8a790e4d647d51006999a2d3e389105ed7c8
+B
+res/pruebaSimpleLs,9\a\9ac921d973effea1d139d8496f2fc96f8ec789dd
+H
+res/LetrasAleatorias.txt,0\4\04cfde067502f8ecefd0205dfe8310a85c0d242f
+F
+res/Vehiculos_back.txt,d\c\dc30a4b465c033ff3836062307f3c9a2c3e777f1
