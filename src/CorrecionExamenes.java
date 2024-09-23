@@ -64,7 +64,7 @@ public class CorrecionExamenes {
         Double puntuacion = 0.0;
 
         for (int i = 0; i < texto.length(); i++) {
-            if (i < respuestaCorrecta.length()) {  // Asegurarse de no comparar fuera del rango de respuestaCorrecta
+            if (i < respuestaCorrecta.length()) {
                 if (texto.charAt(i) == respuestaCorrecta.charAt(i)) {
                     puntuacion += 0.5;
                 } else if (texto.charAt(i) == ' ') {
