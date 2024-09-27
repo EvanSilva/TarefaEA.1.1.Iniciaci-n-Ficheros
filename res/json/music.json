@@ -1,0 +1,35 @@
+{
+  "Canciones": [
+    {
+      "nombre": "Aes",
+      "Lista1": [
+        {
+          "titulo": "a",
+          "autor": "a",
+          "duracion": "a"
+        },
+        {
+          "titulo": "a",
+          "autor": "a",
+          "duracion": "a"
+        }
+      ]
+    },
+    {
+      "nombre": "Bes",
+      "Lista2": [
+        {
+          "titulo": "b",
+          "autor": "b",
+          "duracion": "b"
+        },
+        {
+          "titulo": "b",
+          "autor": "b",
+          "duracion": "b"
+        }
+      ]
+    }
+  ]
+}
+

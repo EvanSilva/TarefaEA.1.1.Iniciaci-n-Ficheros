@@ -1,0 +1,66 @@
+{
+  "GamesAndUsers": [
+    {
+      "Juegos": [
+        {
+          "Nombre": "Binding of Isaac",
+          "Versión": "1.1",
+          "Descripción": "The Binding of Isaac es un videojuego roguelike de acción y aventura diseñado por los desarrolladores independientes Edmund McMillen y Florian Himsl. Fue lanzado en 2011 para Microsoft Windows, luego se portó a OS X y Linux. El título y la trama del juego están inspirados en la Bíblica historia de la Encuadernación de Isaac.",
+          "Idiomas": "Inglés, Español",
+          "Imagenes": [
+            {
+              "Imagen1": "Tear.jpg",
+              "Imagen2": "Blood.jpg",
+              "Imagen3": "Mom.jpg"
+            }
+          ],
+          "Comentarios": [
+            {
+              "NombreUsuario": "Aman",
+              "Descripcion": "Juegardo"
+            },
+            {
+              "NombreUsuario": "Yelko",
+              "Descripcion": "Sobrevalorado"
+            }
+          ]
+        },
+        {
+          "Nombre": "Soma",
+          "Versión": "2.0",
+          "Descripción": "Soma es un videojuego de ciencia ficción de horror y supervivencia desarrollado por Frictional Games para Microsoft Windows, OS X, Linux, PlayStation 4 y Xbox One. El juego fue sacado a la venta el 22 de septiembre de 2015 para Microsoft Windows, OS X, Linux y PlayStation 4 y el 1 de diciembre de 2017 para Xbox One.",
+          "Idiomas": "Inglés, Español",
+          "Imagenes": [
+            {
+              "Imagen1": "Robot.jpg",
+              "Imagen2": "Mess.jpg",
+              "Imagen3": "Warp.jpg"
+            }
+          ],
+          "Comentarios": [
+            {
+              "NombreUsuario": "Aman",
+              "Descripcion": "Juegardo"
+            },
+            {
+              "NombreUsuario": "Yelko",
+              "Descripcion": "Sobrevalorado"
+            }
+          ]
+        }
+      ],
+      "Usuarios": [
+        {
+          "ID": "60",
+          "Avatar": "Tatu.jpg",
+          "Nombre": "Inkmaster"
+        },
+        {
+          "ID": "61",
+          "Avatar": "Tatu.jpg",
+          "Nombre": "Inkmaster"
+        }
+      ]
+    }
+  ]
+}
