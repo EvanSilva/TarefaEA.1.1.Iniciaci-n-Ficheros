@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c98fa673-f4a9-4abf-9bbf-c5378fe08a49" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/ADEjercicio3/src/main/java/org/example/Persona.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/4/0489d6f436e526d48404b90f659874f25bdeac36" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/4/04cfde067502f8ecefd0205dfe8310a85c0d242f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/f/0f3a7379d567372faf2c4fed6142b128e1487ac1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/7/27198b58aed8a65190dd427a068aef305d8dd1ea" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/8/28bfd8a59b64292ac89dd597b744de6094cc4307" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/c/2c874d4d3dc6f62a0042a4da38a6d1e10e7ef09c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/2/3279d08be40d531c67f47d2cb8b137e7fd65fa27" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/e/4eba8a790e4d647d51006999a2d3e389105ed7c8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/c/5c0ff6bb308be79edd9828c9e2e2a084910ef695" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/2/829b05cff48f5b7fec08b66f6172e7c942b7bb01" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/a/9ac921d973effea1d139d8496f2fc96f8ec789dd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/4/b48df8360d88bb6e5f3c41a08faf113fecd36dee" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/5/b5f462b2eec9f8ef5f50367dfe3508fa33b43879" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/8/c8ea68000e3d0c97a35383fb385ac4288aa3fc08" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/d/cd7c66f1fbe551494720d6b167c419d81b9833a5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/1/d1d9c00976fe87ff6dfb1a43682fddfdecbb9e36" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/c/dc30a4b465c033ff3836062307f3c9a2c3e777f1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/0/4/0489d6f436e526d48404b90f659874f25bdeac36" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/0/4/04cfde067502f8ecefd0205dfe8310a85c0d242f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/0/f/0f3a7379d567372faf2c4fed6142b128e1487ac1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/2/7/27198b58aed8a65190dd427a068aef305d8dd1ea" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/2/8/28bfd8a59b64292ac89dd597b744de6094cc4307" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/2/c/2c874d4d3dc6f62a0042a4da38a6d1e10e7ef09c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/3/2/3279d08be40d531c67f47d2cb8b137e7fd65fa27" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/4/e/4eba8a790e4d647d51006999a2d3e389105ed7c8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/5/c/5c0ff6bb308be79edd9828c9e2e2a084910ef695" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/8/2/829b05cff48f5b7fec08b66f6172e7c942b7bb01" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/9/a/9ac921d973effea1d139d8496f2fc96f8ec789dd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/b/4/b48df8360d88bb6e5f3c41a08faf113fecd36dee" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/b/5/b5f462b2eec9f8ef5f50367dfe3508fa33b43879" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/c/8/c8ea68000e3d0c97a35383fb385ac4288aa3fc08" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/c/d/cd7c66f1fbe551494720d6b167c419d81b9833a5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/d/1/d1d9c00976fe87ff6dfb1a43682fddfdecbb9e36" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/d/c/dc30a4b465c033ff3836062307f3c9a2c3e777f1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TarefaEA.1.1.Iniciacion Ficheros.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prueba.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/BusquedaCaracteres.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/Correciones.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/Correciones_Back.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/LetrasAleatorias.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/Ordenacion.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/Ordenacion_asc_case.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/Ordenacion_desc_case.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/Vehiculos.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/Vehiculos_back.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/json/games.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/json/json-pokemon-reducido.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/json/music.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/json/pokemon-reducido-back.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/json/pokemon-reducido.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/json/superheros.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/pruebaSimpleLs.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Binarios/Ej41EscritorObjetos.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Binarios/Ej42LectorObjetos.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Binarios/Ej43EstructurasComplejas.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Binarios/Mascota.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Binarios/Persona.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/BusquedaCaracteres.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ContadorCaracteres.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CorrecionExamenes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Ordenaciones.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/OrdenarVehiculos.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/SimpleLs.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/json/CancionesItem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/json/Lista1Item.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/json/Lista2Item.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/json/Music.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/json/XMLtoJSONtransformer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Binarios/Ej41EscritorObjetos.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Binarios/Ej42LectorObjetos.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Binarios/Ej43EstructurasComplejas.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Binarios/Mascota.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Binarios/Persona.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/BusquedaCaracteres.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ContadorCaracteres.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/CorrecionExamenes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Ordenaciones.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/OrdenarVehiculos.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/SimpleLs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/json/CancionesItem.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/json/Lista1Item.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/json/Lista2Item.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/json/Music.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/json/XMLtoJSONtransformer.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2mSjHl1vF0iPzpseLd5ULUgbdtA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.XMLtoJSONtransformer.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/a20evansg/Desktop/proyectos/AccesoDatos&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\a20evansg\Desktop\proyectos\AccesoDatos\res\json" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\a20evansg\Desktop\proyectos\AccesoDatos\res\json" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="XMLtoJSONtransformer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="json.XMLtoJSONtransformer" />
+      <module name="AccesoDatos" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="json.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.XMLtoJSONtransformer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-b114ca120d71-intellij.indexing.shared.core-IU-242.21829.142" />
+        <option value="bundled-js-predefined-d6986cc7102b-7c0b70fcd90d-JavaScript-IU-242.21829.142" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c98fa673-f4a9-4abf-9bbf-c5378fe08a49" name="Changes" comment="" />
+      <created>1727076786075</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1727076786075</updated>
+      <workItem from="1727076787166" duration="4093000" />
+      <workItem from="1727089709135" duration="1316000" />
+      <workItem from="1727091192306" duration="148000" />
+      <workItem from="1727091369804" duration="1243000" />
+      <workItem from="1727417704525" duration="6958000" />
+      <workItem from="1727780097646" duration="756000" />
+      <workItem from="1728029510330" duration="1199000" />
+      <workItem from="1728292679594" duration="1131000" />
+      <workItem from="1728460710056" duration="95000" />
+      <workItem from="1728460911948" duration="40000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
